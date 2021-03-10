@@ -3,12 +3,12 @@
   align-items: center;
 }
 .profileContainer > img {
-  width: 4.063rem;
-  height: 4.063rem;
+  width: 5.5rem;
+  height: 5.5rem;
   border-radius: 50%;
 }
 .profileContainer div {
-  margin-left: 1.375rem;
+  margin-left: 1.5rem;
 }
 .profileContainer div strong {
   font-size: 1.5rem;
